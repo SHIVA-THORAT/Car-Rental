@@ -14,3 +14,12 @@ The system focuses on simplicity, usability, and performance.
 - Admin panel to manage cars, bookings, and users (if applicable).
 - Responsive design for desktop and mobile.
 
+## Technologies Used
+- Frontend: React.js, HTML5, CSS3, JavaScript
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Authentication: JWT-based authentication
+- Tools & Libraries: REST APIs, ImageKit, Git, GitHub
+
+
+
